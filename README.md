@@ -1,4 +1,4 @@
-### Oiê! Eu sou o Eddi 👋🐻
+# Oiê! Eu sou o Eddi 👋🐻
 
 
 - 🎲 Atualmente estou buscando minha primeira Oportunidade como Dev.
