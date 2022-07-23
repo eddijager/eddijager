@@ -1,8 +1,9 @@
 # Oiê! Eu sou o Eddi 👋🐻
 
 
-- 🎲 Atualmente estou buscando minha primeira Oportunidade como Dev.
-- 🏆 Procuro me tornar um desenvolvedor FullStack com foco no Front-end.
+- 🎯 Atualmente estou buscando minha primeira Oportunidade como Programador Jr.
+- 🏆 Procuro me tornar um Desenvolvedor FullStack com foco no Front-end.
+- 🎲 No momento estou estudando, e buscando implementar cada etapa do aprendizado.
 
 <div>
   <a href="https://github.com/eddijager">
