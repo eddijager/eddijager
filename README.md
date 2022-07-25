@@ -3,7 +3,7 @@
 
 - 🎯 Atualmente estou buscando minha primeira Oportunidade como Programador Jr.
 - 🏆 Procuro me tornar um Desenvolvedor FullStack com foco no Front-end.
-- 🎲 No momento estou estudando, e buscando implementar cada etapa do aprendizado.
+
 
 <div>
   <a href="https://github.com/eddijager">
